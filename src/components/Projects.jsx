@@ -13,7 +13,7 @@ export default function Projects() {
         transition={{ duration: 0.6 }}
         className="text-3xl md:text-4xl font-bold mb-16 text-center"
       >
-        Selected <span className="text-accent">Projects</span>
+        <span className="text-accent">Projects</span>
       </motion.h2>
 
       <div className="space-y-12">
