@@ -49,7 +49,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/public/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-accent transition"
