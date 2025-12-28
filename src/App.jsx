@@ -4,6 +4,8 @@ import Projects from "./components/Projects";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Skills from "./components/Skills";
+import Background from "./components/Background";
+
 
 
 export default function App() {
@@ -17,6 +19,7 @@ export default function App() {
       
       <About />
       <Projects />
+      <Background />
       <Skills />
       <Contact />
 
