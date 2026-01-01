@@ -20,7 +20,7 @@ export default function Background() {
           {/* Experience */}
           <BackgroundItem
             title="AI Engineer / Research Fellow"
-            subtitle="BITS Pilani, Goa"
+            subtitle="BITS Pilani, Goa · 2024 – 2025"
             description="Worked on AI-driven systems for monitoring student stress and learning engagement, focusing on multimodal data, physiological signals, and deployable ML pipelines."
           />
 
