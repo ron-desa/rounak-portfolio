@@ -32,7 +32,7 @@ export default function About() {
           evaluated, deployed, and trusted.
         </p>
 
-        <p className="text-muted leading-relaxed">
+        {/* <p className="text-muted leading-relaxed">
           I’ve worked on problems ranging from{" "}
           <span className="text-white">
             physiological signal–based engagement analysis
@@ -40,7 +40,7 @@ export default function About() {
           to <span className="text-white">medical imaging with MRI</span>, where
           correctness, interpretability, and robustness matter more than flashy
           metrics.
-        </p>
+        </p> */}
 
         <p className="text-muted leading-relaxed">
           I’m particularly interested in roles where I can work close to real
