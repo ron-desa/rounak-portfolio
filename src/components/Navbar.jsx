@@ -17,7 +17,7 @@ export default function Navbar() {
     <>
       <nav className="fixed top-0 w-full z-50 bg-bg/80 backdrop-blur">
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
-          <span className="font-bold text-accent text-xl">Rounak Mukhopadhyay</span>
+          <span className="font-bold text-accent text-xl">Rounak Mukhopadhyay </span>
 
           <button
             onClick={() => setOpen(true)}
